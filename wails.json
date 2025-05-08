@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "windows-theater-go",
+  "outputfilename": "windows-theater-go",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Anurag Lingam",
+    "email": "anuragl94@users.noreply.github.com"
+  }
+}

@@ -9,10 +9,6 @@
 # Node.js dependencies
 /frontend/node_modules/
 
-# Wails generated files
-/wails.json
-/wails.toml
-
 # Temporary files from OS
 .DS_Store
 Thumbs.db
