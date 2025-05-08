@@ -1,10 +1,7 @@
 .env
 
 # Go binaries and build artifacts
-/bin/
 /build/
-/go.mod
-/go.sum
 
 # Node.js dependencies
 /frontend/node_modules/
