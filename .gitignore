@@ -1,0 +1,29 @@
+.env
+
+# Go binaries and build artifacts
+/bin/
+/build/
+/go.mod
+/go.sum
+
+# Node.js dependencies
+/frontend/node_modules/
+
+# Wails generated files
+/wails.json
+/wails.toml
+
+# Temporary files from OS
+.DS_Store
+Thumbs.db
+
+# IDE files (you can add more based on your IDE)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system generated files
+*.bak
+*.swp
