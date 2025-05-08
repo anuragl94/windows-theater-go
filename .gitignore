@@ -2,6 +2,7 @@
 
 # Go binaries and build artifacts
 /build/
+/frontend/dist/*
 
 # Node.js dependencies
 /frontend/node_modules/

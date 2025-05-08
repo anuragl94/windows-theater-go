@@ -82,14 +82,14 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 8px;
+}
 
-    li {
-        cursor: pointer;
-        background-color: rgba(255, 255, 255, 0.1);
-        padding: 12px;
-    }
+li {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 12px;
+}
 
-    li:hover {
-        background-color: rgba(255, 255, 255, 0.2);
-    }
+li:hover {
+    background-color: rgba(255, 255, 255, 0.2);
 }
